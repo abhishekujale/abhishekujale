@@ -25,10 +25,7 @@
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2024-3.png" alt="angular" width="40" height="40"/><img
 src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="40" height="40"/>
 
-<div>⭐⭐⭐<img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" alt="angular" width="40" height="40"/></div>
-<div>⭐⭐⭐⭐⭐<img src="https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg" alt="angular" width="40" height="40"/></div>
-<div>⭐⭐⭐<img src="https://hrcdn.net/fcore/assets/badges/problem-solving-ecaf59a612.svg" alt="angular" width="40" height="40"/></div>
-<div>⭐⭐⭐⭐<img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" alt="angular" width="40" height="40"/></div>
+
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abhishekujale&theme=dark" alt="GitHub Streak" /></a>
