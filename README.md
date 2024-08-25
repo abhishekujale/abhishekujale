@@ -31,7 +31,7 @@ src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="
 <div>⭐⭐⭐⭐<img src="https://hrcdn.net/fcore/assets/badges/c-d1985901e6.svg" alt="angular" width="40" height="40"/></div>
 
 
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abhishekujale&theme=dark" alt="GitHub Streak" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekujale&show_icons=true&locale=en&layout=compact" alt="abhishekujale" /></p>
 
