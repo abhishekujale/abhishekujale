@@ -1,11 +1,11 @@
 # <div align="center">
   # <div align="center">👋 Hi, I'm Abhishek</div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Hi%2C+Myself+ABHISHEK+UJALE;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Hi%2C+Myself+ABHISHEK;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <div>
  
-  <img src="https://komarev.com/ghpvc/?username=ar1701&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://komarev.com/ghpvc/?username=abhishekujale&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 
 </div>
 
@@ -19,16 +19,7 @@
 
 > Transforming ideas into code, one commit at a time
 
-typescript
-const ayush = {
-    pronouns: "He" | "Him",
-    location: "India",
-    current: ["Full Stack Development", "AI-Powered Diet Planning Chatbot"],
-    achievements: ["Team INDIA @ European Rover Challenge 2024"],
-    learning: ["ROS", "Advanced DSA", "Vue.js", "System Design"],
-    interests: ["Open Source", "Robotics", "Movies", "Cricket", "Books"],
-    goals2024: "Contribute to Major Open Source Projects & Master System Design"
-};
+
 
 
 ## 🌐 Connect With Me
@@ -92,11 +83,11 @@ const ayush = {
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ar1701&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar1701&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekujale&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ar1701&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekujale&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
 
 ## 🏆 GitHub Trophies
