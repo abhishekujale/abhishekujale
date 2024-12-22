@@ -1,6 +1,6 @@
 # <div align="center">
   # <div align="center">👋 Hi, I'm Abhishek</div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Hi%2C+Myself+ABHISHEK;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Hi%2C+Myself+ABHISHEK;%F0%9F%92%BB+Full+Stack+Developer;" alt="Typing SVG" />
 </div>
 
 <div>
@@ -44,7 +44,7 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
+<!--
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,7 +78,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
-
+-->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -90,6 +90,7 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekujale&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
 
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -99,9 +100,9 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekujale&custom_title=Abhishek%20Ujale's%20Contribution%20Graph&bg_color=0d1117&color=2F81F7&line=2F81F7&point=2F81F7&area_color=2F81F7&title_color=2F81F7&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekujale" alt="Contribution Graph" />
 </div>
-
+-->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
   
