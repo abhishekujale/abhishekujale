@@ -80,12 +80,14 @@
 </div>
 -->
 ## 📊 GitHub Stats
-<!--
+
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abhishek&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <!--
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?
+    username=abhishek&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> -->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekujale&layout=compact&hide_border=true&title_color=2F81F7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
--->
+
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekujale&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
