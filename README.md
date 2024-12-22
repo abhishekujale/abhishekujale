@@ -1,6 +1,6 @@
 # <div align="center">
   # <div align="center">👋 Hi, I'm Abhishek</div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Hi%2C+Myself+AYUSH+RAJ;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96+Robotics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Hi%2C+Myself+ABHISHEK+UJALE;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <div>
@@ -35,12 +35,11 @@ const ayush = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ayush-raj17)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/ayushrajj17)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ayushrajjoffcial)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/ayushrajj17)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@ayushrajj)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ayushrajj30@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/abhishekujale)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/abhishekujale)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/abhishekk.ujale)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@abhishekujale)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhishekdujale@gmail.com)
 
 </div>
 
@@ -109,7 +108,7 @@ const ayush = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekujale&custom_title=Ayush%20Raj's%20Contribution%20Graph&bg_color=0d1117&color=2F81F7&line=2F81F7&point=2F81F7&area_color=2F81F7&title_color=2F81F7&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekujale&custom_title=Abhishek%20Ujale's%20Contribution%20Graph&bg_color=0d1117&color=2F81F7&line=2F81F7&point=2F81F7&area_color=2F81F7&title_color=2F81F7&area=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
